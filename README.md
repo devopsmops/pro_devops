@@ -15,6 +15,6 @@ Collection of links from the [@devops_mops](https://t.me/devops_mops) telegram c
 - [Компоновка кода Terraform и использование Terragrunt](https://habr.com/ru/company/otus/blog/594239/)
 - [Terraform vs CloudFormation: The Final battle](https://faun.pub/terraform-vs-cloudformation-the-final-battle-f0b203b7e1ba)
 
-## Книги по Terraform
+## Books
 - [Terraform. Инфраструктура на уровне кода](https://www.piter.com/collection/bestsellery-oreilly/product/terraform-infrastruktura-na-urovne-koda)
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action?utm_source=anton&utm_medium=affiliate&utm_campaign=book_winkler_terraform_7_18_19&a_aid=anton&a_bid=e5684295)
